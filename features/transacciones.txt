@@ -1,0 +1,62 @@
+[
+  {
+    "id": 1,
+    "description": "Venta de productos al exterior",
+    "amount": 1500.50,
+    "type": "income"
+  },
+  {
+    "id": 2,
+    "description": "Compra de materia prima",
+    "amount": 800.25,
+    "type": "expense"
+  },
+  {
+    "id": 3,
+    "description": "Servicio de consultoría",
+    "amount": 2200.00,
+    "type": "income"
+  },
+  {
+    "id": 4,
+    "description": "Pago de servicios públicos",
+    "amount": 350.75,
+    "type": "expense"
+  },
+  {
+    "id": 5,
+    "description": "Venta de software personalizado",
+    "amount": 5000.00,
+    "type": "income"
+  },
+  {
+    "id": 6,
+    "description": "Gastos de marketing digital",
+    "amount": 1200.30,
+    "type": "expense"
+  },
+  {
+    "id": 7,
+    "description": "Comisión por ventas",
+    "amount": 450.80,
+    "type": "income"
+  },
+  {
+    "id": 8,
+    "description": "Mantenimiento de equipos",
+    "amount": 650.00,
+    "type": "expense"
+  },
+  {
+    "id": 9,
+    "description": "Licencias de software",
+    "amount": 300.00,
+    "type": "expense"
+  },
+  {
+    "id": 10,
+    "description": "Proyecto de desarrollo web",
+    "amount": 3200.50,
+    "type": "income"
+  }
+]

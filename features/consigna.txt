@@ -1,0 +1,6 @@
+Problema: Crear una función que procese una lista de transacciones financieras y devuelva un resumen con:
+El balance total (ingresos - gastos).
+El número total de transacciones.
+El promedio de ingresos y gastos.
+Listar las transacciones superiores a un monto específico.
+Las transacciones son objetos con: { id: number, description: string, amount: number, type: "income" | "expense" }.
